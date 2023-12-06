@@ -1,6 +1,6 @@
 //your JS code here. If required.
-let first=promt("enter the first input");
+let first=prompt("enter the first input");
 let result=first*2;
-let second=promt("enter the second input");
+let second=prompt("enter the second input");
 result+=parseFloat(second);
 alert("The final result is :"+result);
