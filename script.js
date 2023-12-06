@@ -2,5 +2,5 @@
 let first=promt("enter the first input");
 let result=first*2;
 let second=promt("enter the second input");
-result+=second;
+result+=parseFloat(second);
 alert("The final result is :"+result);
